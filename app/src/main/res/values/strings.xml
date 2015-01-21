@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FunFacts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="ff1">Giraffes have long necks.</string>
+    <string name="ff2">Space is the final frontier.</string>
+    <string name="ff3">Ants stretch when they wake up in the morning.</string>
+    <string name="ff4">Olympic gold medals are actually made mostly of silver.</string>
+    <string name="my_text1">Welcome to da Android Studio.</string>
+    <string name="action_settings">Settings</string>
+    <string name="log_data_splash_message">We\'re logging from the OnCreate method.</string>
+
+</resources>
